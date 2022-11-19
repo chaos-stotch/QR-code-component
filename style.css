@@ -20,7 +20,7 @@ body {
 }
 
 .qr__code {
-    padding: 5%;
+    padding: 5% 5% 0 5%;
 }
 
 img {
@@ -35,13 +35,13 @@ p {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 3vh;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
 
 p {
     color: hsl(220, 15%, 55%);
-    font-size: 20px;
+    font-size: 2vh;
     font-weight: 500;
 }
